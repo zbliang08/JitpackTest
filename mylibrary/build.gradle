@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.xa.jitpack'
-version = '1.0.0'
+version = '1.0.2'
 
 android {
     compileSdkVersion 32
@@ -51,7 +51,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.xa.jitpack'
                 artifactId = 'FuckTest'
-                version = '1.0.0'
+                version = '1.0.2'
             }
         }
     }

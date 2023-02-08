@@ -4,6 +4,6 @@ import android.util.Log
 
 class Fuck3 {
     fun fangfang(){
-        Log.v("lzb","fuck3")
+        Log.v("lzb","fuck")
     }
 }
